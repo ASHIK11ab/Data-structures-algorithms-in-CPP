@@ -3,65 +3,12 @@
 
 | Table of contents |
 | ----------------- |
-| - [Bubble Sort](#bubble-sort-algorithm) |
-| - [Selection Sort](#selection-sort-algorithm) |
-| - [Insertion Sort](#insertion-sort-algorithm) |
-| - [Merge Sort](#merge-sort-algorithm) |
-| - [Quick Sort](#quick-sort-algorithm) |
-| - [Radix Sort](#radix-sort-algorithm) |
- 
-<br>
-<table>
-  <thead>
-    <tr>
-      <th>Table of Contents</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <a href="#bubble-sort-algorithm">
-          1. Bubble Sort
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="#selection-sort-algorithm">
-          2. Selection Sort
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="#insertion-sort-algorithm">
-          3. Insertion Sort
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="#merge-sort-algorithm">
-          4. Merge Sort
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="#quick-sort-algorithm">
-          5. Quick Sort
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="#radix-sort-algorithm">
-          6. Radix Sort
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| 1. [Bubble Sort](#bubble-sort-algorithm) |
+| 2. [Selection Sort](#selection-sort-algorithm) |
+| 3. [Insertion Sort](#insertion-sort-algorithm) |
+| 4. [Merge Sort](#merge-sort-algorithm) |
+| 5. [Quick Sort](#quick-sort-algorithm) |
+| 6. [Radix Sort](#radix-sort-algorithm) | 
 
 ### Bubble Sort Algorithm
   1. Start.  
@@ -129,4 +76,17 @@
       1. During each iteration take the respective element (i.e ones place during first iteration, tens place during second iteration of the outer loop and so on.) and place it in the respective queue. 
   1. When inner loop ends traverse the queue from top to bottom and from left to right and place the elements back in the array. Repeat this until outer loop ends. 
   1. Stop. 
+  
+[[Back to top](#sorting-algorithms)]
+
+### Contributors:
+<a href="https://github.com/ASHIK11ab">
+  <img style="border-radius: 50px" src="https://avatars2.githubusercontent.com/u/58099865?s=460&u=dc835e2281a9265edf2b48059f1c8151be89a1b1&v=4" width="70px" height = "70px"> 
+</a> 
+
+[Ashik Meeran Mohideen](https://github.com/ASHIK11ab)
+
+&copy; copyrights 2020. All rights reserved.
+
+Licensed under [MIT LICENSE](https://github.com/ASHIK11ab/Data-structures-algorithms-in-CPP/blob/main/LICENSE)
 
