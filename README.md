@@ -76,6 +76,12 @@
       1. During each iteration take the respective element (i.e ones place during first iteration, tens place during second iteration of the outer loop and so on.) and place it in the respective queue. 
   1. When inner loop ends traverse the queue from top to bottom and from left to right and place the elements back in the array. Repeat this until outer loop ends. 
   1. Stop. 
+ 
+ <p align="right">
+    <a href="https://github.com/ASHIK11ab/Data-structures-algorithms-in-CPP/tree/searching-algorithms">
+      <strong> Next ---> </strong>
+    </a>
+  </p>
   
 [[Back to top](#sorting-algorithms)]
 
