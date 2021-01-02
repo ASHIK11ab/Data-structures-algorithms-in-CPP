@@ -21,6 +21,7 @@ int main() {
    int size;
    int element;
    char input ='y';
+   cout<<"\nLinear Search:";
    while(input =='y' || input=='Y') { 
     cout<<"\nEnter size of the array: ";
     cin>>size;

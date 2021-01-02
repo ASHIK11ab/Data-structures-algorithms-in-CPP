@@ -1,5 +1,14 @@
-## Overview
-- In this branch we will explore two of the most common searching algorithms implemented in C++
+## Searching Algorithms
+- In this branch we will explore two of the most common searching algorithms implemented in C++.
+
+<br />
+
+| Table of contents |
+| ----------------- |
+| 1. [Linear Search](#linear-search-algorithm) |
+| 2. [Binary Search](#binary-search-algorithm) |
+
+<br />
 
 ### Linear Search Algorithm  
   1. Start. 
@@ -26,4 +35,30 @@
   1. If the element to be found is lesser than the element at middle index. Then, Recursively sort left sub array by passing the end index as middle - 1. 
   1. If not, then recursively sort right sub array by passing the start index as middle + 1. 
   1. If found is equal to 0. Then, print element not found. 
-  1. Stop.  
+  1. Stop. 
+
+<p>
+  <p align="right">
+    <a href="https://github.com/ASHIK11ab/Data-structures-algorithms-in-CPP/tree/sorting-algorithms">
+      <strong> <--- Prev </strong>
+    </a>
+  </p>
+  <p align="right">
+    <a href="https://github.com/ASHIK11ab/Data-structures-algorithms-in-CPP/tree/list-using-arrays">
+      <strong> Next ---> </strong>
+    </a>
+  </p>
+</p>
+
+[Back to top](#searching-algorithms)
+
+### Contributors:
+<a href="https://github.com/ASHIK11ab">
+  <img style="border-radius: 50px" src="https://avatars2.githubusercontent.com/u/58099865?s=460&u=dc835e2281a9265edf2b48059f1c8151be89a1b1&v=4" width="70px" height = "70px"> 
+</a> 
+
+[Ashik Meeran Mohideen](https://github.com/ASHIK11ab)
+
+&copy; copyrights 2020. All rights reserved.
+
+Licensed under [MIT LICENSE](https://github.com/ASHIK11ab/Data-structures-algorithms-in-CPP/blob/main/LICENSE)
