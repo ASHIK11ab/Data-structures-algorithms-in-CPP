@@ -44,7 +44,7 @@
   </a>
 </p>
 
-[Back to top](#searching-algorithms)
+[[Back to top](#searching-algorithms)]
 
 ### Contributors:
 <a href="https://github.com/ASHIK11ab">
