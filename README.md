@@ -1,5 +1,5 @@
 ## List Using Arrays
-- In this branch we will implement the List data structure using arrays implemented in C++.
+- In this branch we will implement the List data structure using arrays in C++.
 
 | Table of Contents |
 | ----------------- |
@@ -114,7 +114,7 @@
   </a>
 </p>
 <p align="right">
-  <a href="https://github.com/ASHIK11ab/Data-structures-algorithms-in-CPP/tree/list-using-pointers">
+  <a href="https://github.com/ASHIK11ab/Data-structures-algorithms-in-CPP/tree/singly-linked-list">
     <strong> Next ---> </strong>
   </a>
 </p>
