@@ -6,6 +6,7 @@ This repository contains most of the common data structures and algorithms  impl
 1. [Searching Algorithms](https://github.com/ASHIK11ab/Data-structures-algorithms-in-CPP/tree/searching-algorithms)
 1. [List using arrays](https://github.com/ASHIK11ab/Data-structures-algorithms-in-CPP/tree/list-using-arrays)
 1. [Singly linked list](https://github.com/ASHIK11ab/Data-structures-algorithms-in-CPP/tree/singly-linked-list)
+1. [Stack using arrays](https://github.com/ASHIK11ab/Data-structures-algorithms-in-CPP/tree/stack-using-arrays)
 
 ## Contributors:
 <a href="https://github.com/ASHIK11ab">
