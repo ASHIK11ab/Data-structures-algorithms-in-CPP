@@ -145,7 +145,7 @@
   </a>
 </p>
 <p align="right">
-  <a href="https://github.com/ASHIK11ab/Data-structures-algorithms-in-CPP/tree/doubly-linked-list">
+  <a href="https://github.com/ASHIK11ab/Data-structures-algorithms-in-CPP/tree/stack-using-arrays">
     <strong> Next ---> </strong>
   </a>
 </p>
