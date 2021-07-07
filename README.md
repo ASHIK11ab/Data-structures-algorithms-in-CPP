@@ -1,7 +1,7 @@
 ## Stack Using Arrays
 
-- In this branch we will implement the stack data structure in C++.
-- Stack follows Last In First Out (FIFO) principle.
+- In this branch we will implement the stack data structure in C++ using arrays.
+- Stack follows Last In First Out (LIFO) principle.
 
 | &emsp;&emsp;&emsp;Table of contents |
 | --- |
@@ -45,7 +45,7 @@ d.	Decrement size of stack by 1.
   </a>
 </p>
 <p align="right">
-  <a href="https://github.com/ASHIK11ab/Data-structures-algorithms-in-CPP/tree/stack-using-pointers">
+  <a href="https://github.com/ASHIK11ab/Data-structures-algorithms-in-CPP/tree/stack-using-lists">
     <strong> Next ---> </strong>
   </a>
 </p>
