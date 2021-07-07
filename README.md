@@ -1,5 +1,13 @@
 ## Data-structures-algorithms-in-CPP
-This repository contains most of the common data structures and algorithms  implemented in C++
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-informational">&emsp;
+  <img src="https://img.shields.io/badge/License-MIT-success?style=flat-square">
+</p>
+
+- This repository contains most of the common data structures and algorithms implemented in C++.
+- Wanted to contribute, send a PR.
+- Issues are warmly welcomed.
 
 ### Index
 1. [Sorting Algorithms](https://github.com/ASHIK11ab/Data-structures-algorithms-in-CPP/tree/sorting-algorithms)
@@ -7,6 +15,7 @@ This repository contains most of the common data structures and algorithms  impl
 1. [List using arrays](https://github.com/ASHIK11ab/Data-structures-algorithms-in-CPP/tree/list-using-arrays)
 1. [Singly linked list](https://github.com/ASHIK11ab/Data-structures-algorithms-in-CPP/tree/singly-linked-list)
 1. [Stack using arrays](https://github.com/ASHIK11ab/Data-structures-algorithms-in-CPP/tree/stack-using-arrays)
+1. [Stack using Lists](https://github.com/ASHIK11ab/Data-structures-algorithms-in-CPP/tree/stack-using-lists)
 
 ## Contributors:
 <a href="https://github.com/ASHIK11ab">
